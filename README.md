@@ -1,4 +1,25 @@
-Notes and links from the SDML book club meetings
+Notes and links from the SDML book club meetings.
+For slides and videos from other, non-book machine learning talks, please see the [SDML talks repo](https://github.com/SanDiegoMachineLearning/talks).
+
+
+### Probabilistic Machine Learning:  Advanced Topics
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/probml_book2.jpg?raw=true" width="160">
+
+Materials for the book reading group for the book *Probabilistic Machine Learning: Advanced Topics*, which started in January 2023,
+can be found in the document [probabilistic-ml.md](./probabilistic-ml.md).
+
+### Learning SQL Queries
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/sqlin10min.jpg?raw=true" width="160">
+
+Notest/slides, videos, schedule, and additional materials for the meetup sessions for the Learning SQL series, 
+using the book *Sams Teach Yourself SQL in 10 Minutes*, which started in September 2022,
+can be found in the document [sql-queries.md](./sql-queries.md).
+
+### Quantum Computing
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/dancing_with_qubits.png?raw=true" width="160">
+
+Videos, schedule, and additional materials for the meetup sessions for the Quantum Computing series, using the book *Dancing with Qubits*, which started in August 2022,
+can be found in the document [quantum-computing.md](./quantum-computing.md).
 
 ### Machine Learning with Graphs
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/graph.jpg?raw=true" width="160">
